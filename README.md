@@ -41,7 +41,21 @@ romanized = 'ḥulat śosət'
 
 ## Citation
 
-If this work helps with your research, please cite our paper:
+If this work helps with your research, cite the following papers:
+
+```bibtex
+@inproceedings{destaw-etal-2021-development,
+    title = "The Development of Pre-processing Tools and Pre-trained Embedding Models for {A}mharic",
+    author = "Belay, Tadesse Destaw  and  Ayele, Abinew  and  Yimam, Seid Muhie",
+    editor = "Varis, Erika  and
+    booktitle = "Proceedings of the Fifth Workshop on Widening Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.winlp-1.5/",
+    pages = "25--28
+```
 
 ```bibtex
 @INPROCEEDINGS{belay-2021-impacts,
@@ -54,7 +68,8 @@ If this work helps with your research, please cite our paper:
 }
 ```
 
-```bibtex@Article{fi13110275,
+```bibtex
+@Article{fi13110275,
 AUTHOR = {Yimam, Seid Muhie and Ayele, Abinew Ali and Venkatesh, Gopalakrishnan and Gashaw, Ibrahim and Biemann, Chris},
 TITLE = {Introducing Various Semantic Models for Amharic: Experimentation and Evaluation with Multiple Tasks and Datasets},
 JOURNAL = {Future Internet},
