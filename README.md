@@ -1,8 +1,9 @@
 # Imacts-of-homopnone-normalization
-## All of the resources are publicly available in the following [Ethiopicmodels repository](https://github.com/uhh-lt/amharicmodels) 
+## All of the resources are publicly available in the following repository. <br/>
+[Ethiopicmodels repository](https://github.com/uhh-lt/amharicmodels) 
 
 ### [Amharic Corpus](https://data.mendeley.com/datasets/dtywyf3sth/1) <br/>
-### [Data](https://github.com/uhh-lt/ethiopicmodels/tree/master/am/data) <br/>
+### [Amharic Datasets](https://github.com/uhh-lt/ethiopicmodels/tree/master/am/data) <br/>
 ### [Preprocessing scripts and tools](https://github.com/uhh-lt/ethiopicmodels/tree/master/am/normalization) <br/>
 
 
